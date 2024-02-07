@@ -1,0 +1,1 @@
+let numero = prompt("Pide un número");
